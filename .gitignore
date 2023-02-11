@@ -1,0 +1,13 @@
+.env
+node_modules
+
+# smart-contract .env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
